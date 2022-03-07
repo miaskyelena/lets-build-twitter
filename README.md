@@ -47,5 +47,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of secondary implementations: 
 
-![](https://i.imgur.com/Ed3xa8i.gif)
+![](https://i.imgur.com/O7KQnim.gif)
 
