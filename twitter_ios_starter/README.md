@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -47,5 +47,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of secondary implementations: 
 
-![](https://i.imgur.com/KJk6lO5.gif)
+![](https://i.imgur.com/Ed3xa8i.gif)
 
