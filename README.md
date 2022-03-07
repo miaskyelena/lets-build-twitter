@@ -19,9 +19,6 @@ The following **bonus** features are implemented:
 - [X] User can pull to refresh. (1pt)
 - [X] User can load past tweets infinitely. (2pts)
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/7XAfz84.gif)
 # Twitter - Part II
@@ -44,7 +41,7 @@ The following **bonus** features are implemented:
 - [ ] User can view their profile in a profile tab. (3pts)
 - [ ] User sees embedded images in tweet if available. (3pts)
 
+## Video Walkthrough
 
-
-
-
+Here's a walkthrough of implemented user stories:
+![](https://i.imgur.com/Zzz0zJq.gif)
